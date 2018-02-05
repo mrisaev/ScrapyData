@@ -1,2 +1,2 @@
 # ScrapyData
-Some scripts for scraped by scrapy spider data validation
+Some scripts for data validation collected by scrapy spider
